@@ -1,5 +1,3 @@
-# PMMKD: A Progressive Multilevel Mixing-based Knowledge Distillation Framework for Enhancing 3D Object Detection on Compressed Point Clouds
-
 ---
 
 ## 📄 Dataset Overview  
