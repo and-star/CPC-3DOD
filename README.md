@@ -6,6 +6,6 @@
 ---
 
 ## 📂 Download Path
-CPC-KITTI: https://pan.baidu.com/s/1sn1tAME-PQz_Lio8gKxpDg  提取码：41y9 
+CPC-KITTI: https://pan.baidu.com/s/11wCkxc-nby1iNgpu611yDg?pwd=4bew 提取码: 4bew
 
-CPC-nuScenes: https://pan.baidu.com/s/1Hp82UEOQnTyeLS6Iy2SK8A 提取码：7mxa 
+CPC-nuScenes: https://pan.baidu.com/s/1_HmrzYkQaFZWv_OBkqCUZQ?pwd=5d6t 提取码: 5d6t
